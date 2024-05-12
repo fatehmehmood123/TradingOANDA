@@ -1,0 +1,15 @@
+2024-05-12 07:38:02 LogWapper init() ./logs/Bot.log
+2024-05-12 07:38:06 Bot started with
+{'AUD_USD': {'pair': 'AUD_USD', 'units': 1000, 'short_ma': 2, 'long_ma': 8},
+ 'EUR_CHF': {'pair': 'EUR_CHF', 'units': 1000, 'short_ma': 2, 'long_ma': 8},
+ 'EUR_GBP': {'pair': 'EUR_GBP', 'units': 1000, 'short_ma': 2, 'long_ma': 8},
+ 'EUR_USD': {'pair': 'EUR_USD', 'units': 1000, 'short_ma': 2, 'long_ma': 8},
+ 'GBP_JPY': {'pair': 'GBP_JPY', 'units': 1000, 'short_ma': 2, 'long_ma': 8},
+ 'GBP_USD': {'pair': 'GBP_USD', 'units': 1000, 'short_ma': 2, 'long_ma': 8}}
+2024-05-12 07:38:06 Bot Timings
+{'AUD_USD': {'last_candle': Timestamp('2024-05-10 20:58:00+0000', tz='tzutc()'), 'ready': False},
+ 'EUR_CHF': {'last_candle': Timestamp('2024-05-10 20:59:00+0000', tz='tzutc()'), 'ready': False},
+ 'EUR_GBP': {'last_candle': Timestamp('2024-05-10 20:59:00+0000', tz='tzutc()'), 'ready': False},
+ 'EUR_USD': {'last_candle': Timestamp('2024-05-10 20:59:00+0000', tz='tzutc()'), 'ready': False},
+ 'GBP_JPY': {'last_candle': Timestamp('2024-05-10 20:59:00+0000', tz='tzutc()'), 'ready': False},
+ 'GBP_USD': {'last_candle': Timestamp('2024-05-10 20:59:00+0000', tz='tzutc()'), 'ready': False}}
